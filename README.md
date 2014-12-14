@@ -1,7 +1,7 @@
 DRF-HASHIDS-FIELDS
 ==================
 
-[http://hashids.org/](Hashids) fields for Django Rest Framework Project
+[Hashids]([http://hashids.org/) fields for Django Rest Framework Project
 
 Fields:
 ----------------
