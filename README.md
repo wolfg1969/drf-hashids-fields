@@ -1,4 +1,11 @@
-drf-hashids-fields
+DRF-HASHIDS-FIELDS
 ==================
 
-Hashids field for Django Rest Framework Project
+[http://hashids.org/](Hashids) fields for Django Rest Framework Project
+
+Fields:
+----------------
+
+#####HashidsPrimaryKeyField
+
+#####HashidsPrimaryKeyRelatedField
